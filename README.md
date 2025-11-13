@@ -23,7 +23,6 @@ All addresses are derived from the **same seed** — perfect for learning, testi
   - Private key (hex)
   - **WIF** (Wallet Import Format)
   - **All 4 address types**
-- No external dependencies beyond standard libraries
 
 ---
 
